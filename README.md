@@ -179,8 +179,8 @@ Resets the persistent database back to the initial 32 mock profiles, clearing al
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo-url>
-cd Coy
+git clone https://github.com/KinshukChauhan21/Coy-Discover.git
+cd Coy-Discover
 npm install
 ```
 
